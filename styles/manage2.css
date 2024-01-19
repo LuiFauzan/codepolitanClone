@@ -1,0 +1,85 @@
+:root{
+            --ijo :#14A7A0;
+            --ijo-muda :#5DD6D1;
+            --abu :#f5f7fa;
+            --abu-tua :grey;
+        }
+.col-course{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.banner-course {
+      width: 300px;
+      background-color:white;
+      border: 1px solid rgba(0,0,0 ,0.3);
+      margin-bottom: 40px;
+      /*border: 1px solid #000;
+      *//*padding: 10px;
+      */cursor: pointer;
+      border-radius: 15px;
+      -webkit-border-radius: 15px;
+      -moz-border-radius: 15px;
+      -ms-border-radius: 15px;
+      -o-border-radius: 15px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      transition: transform 0.2s ease-in-out;
+      -webkit-transition: transform 0.2s ease-in-out;
+      -moz-transition: transform 0.2s ease-in-out;
+      -ms-transition: transform 0.2s ease-in-out;
+      -o-transition: transform 0.2s ease-in-out;
+}
+.banner-course:hover{
+    transform: translateY(-10px) ;
+    -webkit-transform: translateY(-10px) ;
+    -moz-transform: translateY(-10px) ;
+    -ms-transform: translateY(-10px) ;
+    -o-transform: translateY(-10px) ;
+    color: black;
+}
+.banner-course h3:hover{
+    color: #14A7A0;
+}
+.isi-banner {
+    display: flex;
+    flex-direction: column;
+}
+.banner-text{
+    padding: 10px;
+}
+
+.jam-modul,.rank-js{
+    display:flex;
+    justify-content: space-between;
+    color: var(--abu-tua);
+    
+}
+.jam-modul{
+    margin-top: 10px;
+}
+.jam-modul i{
+    margin-right: 10px;
+}
+.rank-js i{
+    margin-right: 10px;
+}
+.penilaian{
+    margin-top: 10px;
+    color: var(--abu-tua);
+}
+.penilaian i{
+    margin-right: 10px;
+    color: gold;
+}
+.beli {
+    margin-top: 10px; 
+    padding-top: 10px; 
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid rgba(0,0,0 ,0.1);
+    color: var(--abu-tua);
+    font-weight: bold;
+}
+   .my-course {
+            height: auto;
+        }

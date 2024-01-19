@@ -1,0 +1,82 @@
+  :root {
+            --ijo: #14A7A0;
+            --ijo-muda: #5DD6D1;
+            --abu: #f5f7fa;
+            --abu-tua: grey;
+        }
+        .list-sudah{
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+            /* padding-left: 30px; */
+            margin: 0;
+        }
+.sudah
+,.sudahh{
+    background-color: #14A7A0;
+    width: 23%;
+    height: 300px;
+    /*border: 1px solid black;
+    */border-radius:10px ;
+    margin:10px 10px ;
+}
+.im img{
+    border-radius: 10px 10px 0px 0px;
+    -webkit-border-radius: 10px 10px 0px 0px;
+    -moz-border-radius: 10px 10px 0px 0px;
+    -ms-border-radius: 10px 10px 0px 0px;
+    -o-border-radius: 10px 10px 0px 0px;
+    
+}
+.im{
+    /* border: 1px solid rebeccapurple; */
+    height: 170px;
+}
+.sudahh{
+    height:300px ;
+    background-color: white;
+    border: 1px solid rgba(0,0,0, 0.1);
+    color: black;
+    box-shadow: 1px 1px 5px 0px black;
+}
+.sudah button{
+    margin-top: 70px;
+}
+.col{
+    padding: 20px;
+    height: auto;
+    justify-content: center;
+}
+.lihat{
+    border-top: 1px solid rgba(0,0,0, 0.1);
+    padding:5px 20px;
+    align-items: center;
+    display: flex;
+    justify-content: end;
+}
+.lihat >a{
+    float: right;
+    text-decoration: none;
+    color: #14A7A0;
+}
+.lihat i{
+    font-size: 16px;
+    margin-left: 5px;
+}
+.b i{
+    font-size: 16px;
+}
+.b{
+    margin-bottom: 20px;
+    /* border: 1px solid black; */
+    display: flex;
+}
+.b span{
+    color: grey;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.b i{
+     margin-right: 5px;
+    margin-left: 5px;
+}

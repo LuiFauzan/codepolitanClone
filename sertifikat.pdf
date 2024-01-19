@@ -1,0 +1,40 @@
+<html lang="en">
+<head>
+  <title>Sertifikat</title>
+</head>
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h1>Sertifikat</h1>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Logo_CodePolitan.png/1200px-Logo_CodePolitan.png" width="200px" alt="Logo CodePolitan">
+      </div>
+      <div class="col-md-6">
+        <h2>Pembelajaran<br>
+          Kursus: <b></b><br>
+          Tanggal: <b>19-01-2024</b></h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <p>
+          Dengan ini, kami memberikan sertifikat kepada
+          <b>Lui Fauzan</b>
+          telah menyelesaikan pembelajaran kursus <b></b>.
+        </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <p>
+          Semoga ilmu yang telah diperoleh dapat bermanfaat bagi diri sendiri dan orang lain.
+        </p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
